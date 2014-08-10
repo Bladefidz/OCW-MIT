@@ -1,4 +1,4 @@
-#Print print number between 2 - 1000
+#Print number between 2 - 1000
 #This source code for http://www.scriptol.com/programming/sieve.php
 #Use python 3 to compile
 
